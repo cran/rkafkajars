@@ -14,15 +14,15 @@ The 'rkafkajars' package collects all the external jars required for the 'rkafka
 \tabular{ll}{
 Package: \tab rkafkajars\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2015-04-10\cr
+Version: \tab 1.2\cr
+Date: \tab 2021-12-01\cr
 License: \tab Apache License 2.0\cr
 }
 }
 \author{
 Shruti Gupta
 
-Maintainer: Shruti Gupta<shruti.gupta@mu-sigma.com>
+Maintainer: Shruti Gupta<shrutigupta34@gmail.com>
 
 }
 

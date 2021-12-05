@@ -1,12 +1,12 @@
-659916cf109be15c55eac92c04b7deed *DESCRIPTION
+ee7aadd866bf5f0441bfcae6348e0571 *DESCRIPTION
 3b83ef96387f14655fc854ddc3c6bd57 *LICENSE
 bfaa42422d12234242b54cf77801f9ba *NAMESPACE
 6c50ab78503f99f0965e2d953808376f *R/rkafkajars.R
 fbdbd64888ddf865991f33b59fc186c5 *inst/COPYRIGHTS
 c41361ca7af9b8f3df1e8dc09e9b5bed *inst/NOTICE
-01f1ab97512f7116e425bcdadb4b27fa *inst/doc/rkafkajars-manual.pdf
+3a80372fe006c1bb73a8a109f9875f53 *inst/doc/rkafkajars-manual.pdf
 fab2962dfd0b5cdcb3451a74b39567f8 *inst/java/rkafka-1.0-jar-with-dependencies.jar
-5813c8a1fc813bd38f06a8e204c773d9 *java/README.md
+ba2523a4fe44d1de11df673bea50a061 *java/README.md
 8c36d89b6950c4dfefb2ef39ffd7a71a *java/build.sh
 183082c318fcb2c885b44bd4e95d73c1 *java/com/musigma/consumer/MuConsumer.java
 6855eec28ac6d2983074c41a10a68f9b *java/com/musigma/consumer/MuHighConsumer.java
@@ -1825,5 +1825,5 @@ c32ebfac62d819ca075deb535af8baa6 *java/scala/xml/pull/XMLEvent.scala
 c8f6727fe61febbae904990b965e60a1 *java/scala/xml/transform/BasicTransformer.scala
 908d6dd18ef72201dd28396a4215ac42 *java/scala/xml/transform/RewriteRule.scala
 75c2cee74fefb7c0aa75074ae1a4a39e *java/scala/xml/transform/RuleTransformer.scala
-5ca5ce10522282d830169ebbe18e7bf4 *man/rkafkajars-package.Rd
+9df0a1a83adb8dd3c92bee06ec43d2a2 *man/rkafkajars-package.Rd
 cc6d89e30a12114fce1b42c629896ee9 *tests/unitTests.R
